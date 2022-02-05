@@ -26,5 +26,5 @@
 
 5) Save the file(by using :wq command) and then use :PlugInstall command
 
-#MacOS installation 
-unfortunately I do not know how to set up it on MacOS because i never had it. If you had or still have it contribute in this project
+# MacOS installation 
+Unfortunately I do not know how to set up it on MacOS because I never had it. If you had or still have it please contribute in this project
