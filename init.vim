@@ -19,7 +19,7 @@ Plug 'https://github.com/terryma/vim-multiple-cursors'
 
 call plug#end()
 
-source ~/.config/nvim/plugged/awesome-vim-colorschemes\colors\iceberg.vim 
+source ~/.config/nvim/plugged/awesome-vim-colorschemes/colors/iceberg.vim 
 source C:\Users\add_your_username\AppData\Local\nvim-data\plugged\awesome-vim-colorschemes\colors\iceberg.vim
 
 nnoremap <C-n> :NERDTree <CR>
